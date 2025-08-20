@@ -206,7 +206,7 @@ const RegisterForm = () => {
             >
               Register
             </Button>
-            <Link href="/login" className="text-purple-800">
+            <Link href="/" className="text-purple-800">
               Already a user? Login.
             </Link>
           </Stack>
